@@ -1,0 +1,15 @@
+{
+  "name": "agentsuda-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The home of agentsuda — your agents, one conversation.",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "check": "node --check public/app.js && node --check scripts/build.mjs && node --check scripts/serve.mjs",
+    "deploy": "npm run build && wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "4.165.0"
+  }
+}
