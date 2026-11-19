@@ -9,3 +9,5 @@
 .demo-controls button{font-size:14px;min-height:36px}.hero-copy{font-size:18px}.hero-note,.demo-bottomline p,.closing .entry-note{font-size:13px}@media(max-width:700px){.hero-copy{font-size:16px}.principles p{font-size:16px}.section-intro p{font-size:16px}.closing p{font-size:16px}.bubble{font-size:14px}.chat-transcript{min-height:720px}.attachment strong{font-size:12px}.attachment small{font-size:11px}.closing .entry-note{font-size:12px}}
 
 @media(max-width:700px){.experience:before{inset:40px 0 -40px}}
+
+.header nav .chat-entry{display:inline-flex;color:#238f9c;border-color:#c8e3e6;min-height:39px;padding:9px 15px;white-space:nowrap}@media(max-width:700px){.header nav{gap:12px}.header nav .chat-entry{font-size:12px;padding:8px 10px}.header .brand img{width:113px}}
