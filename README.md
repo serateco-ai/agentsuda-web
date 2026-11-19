@@ -42,13 +42,10 @@ npm run build
 
 `public/`이 소스이며 `dist/`는 배포 산출물입니다. 사이트 자체는 빌드 라이브러리 없이 동작하고 Wrangler는 배포할 때만 사용합니다.
 
-## 배포와 기여
+## 의견 보내기
 
-`main`에 푸시하면 [GitHub Actions](https://github.com/serateco-ai/agentsuda-web/actions/workflows/deploy.yml)가 검사·빌드 후 Cloudflare Workers에 자동 배포합니다. 같은 화면의 **Run workflow**로 수동 배포할 수도 있습니다.
+문구·접근성·화면에 대한 의견이나 문제 제보는 [이슈](https://github.com/serateco-ai/agentsuda-web/issues)로 남겨주세요. 외부 참여는 의견 제안과 문제 제보만 받으며, 코드 기여나 직접 배포는 받지 않습니다. 소스 변경과 배포는 운영자가 관리합니다.
 
-- [Cloudflare 배포 안내](docs/deployment.md)
-- [디자인 방향과 참고 자료](docs/design.md)
-
-문구·접근성·화면 개선 제안은 이 저장소의 이슈로 남겨주세요. 재현 가능한 문제는 기기와 브라우저, 발생 화면을 함께 알려주시면 도움이 됩니다. 대화 내용이나 인증 코드는 올리지 마세요.
+문제를 제보할 때는 기기와 브라우저, 발생 화면을 함께 알려주세요. 대화 내용·개인정보·인증 코드·API 키는 올리지 마세요.
 
 브랜드 로고와 이름은 agentsuda의 자산입니다. 별도 라이선스가 없는 코드는 기본 저작권을 유지합니다.
