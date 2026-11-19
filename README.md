@@ -44,6 +44,8 @@ npm run build
 
 ## 배포와 기여
 
+`main`에 푸시하면 [GitHub Actions](https://github.com/serateco-ai/agentsuda-web/actions/workflows/deploy.yml)가 검사·빌드 후 Cloudflare Workers에 자동 배포합니다. 같은 화면의 **Run workflow**로 수동 배포할 수도 있습니다.
+
 - [Cloudflare 배포 안내](docs/deployment.md)
 - [디자인 방향과 참고 자료](docs/design.md)
 
