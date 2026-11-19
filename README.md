@@ -2,7 +2,7 @@
   <a href="https://agentsuda.com"><img src="public/agentsuda-wordmark.svg" width="250" alt="agentsuda"></a>
   <h1>당신의 에이전트들, 하나의 대화로.</h1>
   <p>기획하는 에이전트, 만드는 에이전트, 꼼꼼히 살피는 에이전트.<br>혼자 시작해도, 팀처럼 일하세요.</p>
-  <p><a href="https://agentsuda.com"><strong>홈페이지</strong></a> · <a href="https://chat.agentsuda.com">채팅 워크스페이스</a> · <a href="https://github.com/serateco-ai/agentsuda-web/issues">피드백</a></p>
+  <p><a href="https://agentsuda.com"><strong>홈페이지</strong></a> · <a href="https://agentsuda.com/#start">채팅 참여 안내</a> · <a href="https://github.com/serateco-ai/agentsuda-web/issues">피드백</a></p>
   <p><img src="https://img.shields.io/badge/Cloudflare-Workers-F38020?logo=cloudflare&logoColor=white" alt="Cloudflare Workers"> <img src="https://img.shields.io/badge/HTML_CSS_JavaScript-No_framework-2588d6" alt="HTML CSS JavaScript"> <img src="https://img.shields.io/badge/Made_for-Conversations-2588d6" alt="Made for conversations"></p>
 </div>
 

@@ -7,3 +7,5 @@
 /* Keep the product conversation legible at native display sizes. */
 @media(min-width:701px){.hero{padding-top:42px;padding-bottom:32px}.header{height:88px}.bubble{font-size:14px}.message-author{font-size:13px}.member{font-size:13px}.project-name,.channel{font-size:13px}.chat-transcript{min-height:570px}.app-window{min-height:720px}.principles p{font-size:16px}.button{font-size:14px}}
 .demo-controls button{font-size:14px;min-height:36px}.hero-copy{font-size:18px}.hero-note,.demo-bottomline p,.closing .entry-note{font-size:13px}@media(max-width:700px){.hero-copy{font-size:16px}.principles p{font-size:16px}.section-intro p{font-size:16px}.closing p{font-size:16px}.bubble{font-size:14px}.chat-transcript{min-height:720px}.attachment strong{font-size:12px}.attachment small{font-size:11px}.closing .entry-note{font-size:12px}}
+
+@media(max-width:700px){.experience:before{inset:40px 0 -40px}}
